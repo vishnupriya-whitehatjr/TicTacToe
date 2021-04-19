@@ -110,6 +110,7 @@ export default class App extends React.Component {
       this.initializeGame();
     }
   };
+  //for a new game
   newGame = () => {
     this.initializeGame();
   };
